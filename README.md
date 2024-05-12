@@ -1,2 +1,3 @@
 # bitm
-Browser in the middle - disposable, containerized, intercept-ready-proxied, firefox browser to assist with suspicious web links. 
+Browser in the middle - disposable, containerized, intercept-ready-proxied, firefox browser to assist with suspicious web links.
+Designed to operate on "rootless" podman install - using mitmproxy. 
